@@ -1,6 +1,6 @@
 # sales_project
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hemalathadurgaputti/sales_project/blob/main/sales_project.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/Hemalathadurgaputti/sales_project/blob/main/sales_project.ipynb)
 
 This project analyzes 2,823 sales order lines from January 2003 to May 2005 using Python and Pandas. I checked the data for missing values and duplicates, converted the order dates, and grouped the sales by product line, month, country, deal size, and customer. The results are shown in 11 charts, and each one has a short insight and recommendation.
 
